@@ -1,31 +1,185 @@
-<h1 align="center">I'm Manthena Rishikesh</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<h1 align="center">Manthena Rishikesh</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-hub" alt="rishikesh-hub" /></a> </p>
-
-- 🔭 I’m currently working on **AI-Based Predictive System for Identifying Drug–Food Interactions**
-
-- 🌱 I’m currently learning **Data Analysis, Machine Learning, and IoT**
-
-- 👯 I’m looking to collaborate on **Innovative ML models and Hardware-Software Integration Projects**
-
-- 🤝 I’m looking for help with **Building and Refining my new ideas**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rishikesh-hub](https://github.com/Rishikesh-hub)
-
-- 💬 Ask me about **C, Python, Java, JavaScript, Node.js, and data libraries like NumPy and Pandas**
-
-- 📫 How to reach me **mrishi2206@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishikesh manthena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikesh manthena" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishikesh_manthena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishikesh_manthena" height="30" width="40" /></a>
+<p align="center">
+  <strong>AI/ML Developer • Deep Learning • NLP • Cybersecurity</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/rishikesh-hub">
+    <img src="https://img.shields.io/badge/GitHub-rishikesh--hub-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishikesh-manthena/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rishikesh%20Manthena-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/rishikesh_manthena/">
+    <img src="https://img.shields.io/badge/LeetCode-rishikesh__manthena-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-hub&show_icons=true&locale=en&layout=compact" alt="rishikesh-hub" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikesh-hub&show_icons=true&locale=en" alt="rishikesh-hub" /></p>
+## About Me
+
+I'm an **AI/ML developer and researcher** interested in building intelligent systems that combine machine learning, deep learning, NLP, and cybersecurity.
+
+My current work focuses on developing **robust AI systems for real-world security problems**, with an emphasis on generalization, class imbalance, distribution shift, and trustworthy predictions.
+
+* 🔬 Currently researching **AI-based phishing email detection**
+* 🧠 Interested in **Deep Learning, NLP, Cybersecurity & Robust ML**
+* 💻 Experienced with **Python, C, Java, JavaScript and TypeScript**
+* 🌐 Building **AI-powered full-stack applications**
+* 📊 Exploring **Machine Learning, Data Analysis and Predictive Modeling**
+* ⚙️ Interested in **hardware-software integration and IoT**
+
+---
+
+## Current Research
+
+### 🛡️ Adaptive Multi-View Phishing Email Detection
+
+**Status:** `Ongoing Research`
+
+A research project focused on improving phishing email detection beyond conventional text-only classification.
+
+The proposed system investigates multiple sources of evidence:
+
+**Email Text** · **Headers & Metadata** · **URLs** → **Representation Learning** → **Evidence Fusion** → **Adaptive Classification**
+
+### Research Focus
+
+* Multi-view phishing detection
+* Transformer-based text representation
+* URL intelligence
+* Email header and metadata analysis
+* Class-imbalance handling
+* Adaptive optimization
+* Distribution-shift robustness
+* Uncertainty-aware prediction
+* Explainable AI
+* Cross-dataset and cross-source evaluation
+
+> **Goal:** Develop a phishing detection system that remains reliable when evaluated on previously unseen data, sources, campaigns, and changing phishing patterns.
+
+---
+
+## Selected Projects
+
+### 💊 AI-Based Drug–Food Interaction Prediction
+
+AI-powered system for predicting potential drug–food interactions using machine learning and neural-network approaches.
+
+**Stack:**
+`Python` `FastAPI` `React` `Node.js` `Express` `MongoDB` `Machine Learning`
+
+---
+
+### 📡 Hand Movement-Based Fan Speed Control
+
+IoT system that controls fan speed based on hand movement using a **MEMS accelerometer**, microcontroller-based processing, and PWM control.
+
+**Stack:**
+`C` `PIC16F72` `MEMS Accelerometer` `PWM` `IoT`
+
+---
+
+### 🧪 Material Property Prediction
+
+Machine-learning system designed to predict material properties from input features and investigate predictive modeling approaches for materials-related applications.
+
+**Stack:**
+`Python` `NumPy` `Pandas` `Scikit-learn` `Machine Learning`
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,typescript" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+`NumPy` · `Pandas` · `Scikit-learn` · `OpenCV` · `Seaborn` · `XGBoost` · `Transformers`
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,django,fastapi" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,kubernetes,aws,firebase" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
+
+---
+
+## Research Interests
+
+```text
+Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── Natural Language Processing
+├── Robust & Adaptive ML
+└── Explainable AI
+
+Cybersecurity
+├── Phishing Detection
+├── Email Security
+├── Threat Detection
+└── Adversarial Robustness
+
+Intelligent Systems
+├── Predictive Modeling
+├── AI-powered Applications
+└── IoT & Hardware Integration
+```
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikesh-hub&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh-hub&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages"/>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/rishikesh-hub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishikesh-manthena/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/rishikesh_manthena/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  📫 <strong>mrishi2206@gmail.com</strong>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems at the intersection of AI, cybersecurity and real-world applications.</i>
+</p>
